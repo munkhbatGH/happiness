@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q1",
+    "text": "In high-pressure moments, I can calm myself within a few minutes.",
+    "construct": "stress_regulation",
+    "reverse": false
+  },
+  {
+    "id": "q2",
+    "text": "I can sustain focus on one task for 20+ minutes without checking my phone.",
+    "construct": "focus_control",
+    "reverse": false
+  },
+  {
+    "id": "q3",
+    "text": "I feel confident speaking up in important meetings.",
+    "construct": "comm_confidence",
+    "reverse": false
+  },
+  {
+    "id": "q4",
+    "text": "I have a clear, authentic leadership style I can describe in 2-3 lines.",
+    "construct": "leadership_clarity",
+    "reverse": false
+  },
+  {
+    "id": "q5",
+    "text": "I bounce back quickly after setbacks.",
+    "construct": "resilience",
+    "reverse": false
+  },
+  {
+    "id": "q6",
+    "text": "I intentionally practice positive reframing when things go wrong.",
+    "construct": "attitude_positivity",
+    "reverse": false
+  },
+  {
+    "id": "q7",
+    "text": "I can connect my daily tasks to a larger purpose.",
+    "construct": "purpose_alignment",
+    "reverse": false
+  },
+  {
+    "id": "q8",
+    "text": "I often feel overwhelmed by daily responsibilities.",
+    "construct": "stress_regulation",
+    "reverse": true
+  },
+  {
+    "id": "q9",
+    "text": "I struggle to maintain concentration during long work sessions.",
+    "construct": "focus_control",
+    "reverse": true
+  },
+  {
+    "id": "q10",
+    "text": "I actively seek feedback to improve my communication skills.",
+    "construct": "comm_confidence",
+    "reverse": false
+  },
+  {
+    "id": "q11",
+    "text": "My values guide my major decisions consistently.",
+    "construct": "leadership_clarity",
+    "reverse": false
+  },
+  {
+    "id": "q12",
+    "text": "I maintain a growth mindset even during failures.",
+    "construct": "attitude_positivity",
+    "reverse": false
+  }
+]

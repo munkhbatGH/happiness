@@ -1,0 +1,50 @@
+[
+  {
+    "id": "leadership",
+    "name": "Leadership Coach",
+    "desc": "Authentic leadership, clarity, influence",
+    "principles": ["Leadership", "Attitude"],
+    "focus": "Developing authentic leadership style, building influence, enhancing decision-making clarity",
+    "techniques": ["Vision boarding", "Values clarification", "360-degree feedback", "Executive presence training"]
+  },
+  {
+    "id": "communication",
+    "name": "Communication & Confidence Coach",
+    "desc": "Public speaking, interpersonal skills",
+    "principles": ["Communication"],
+    "focus": "Mastering public speaking, improving interpersonal communication, building self-confidence",
+    "techniques": ["Toastmasters techniques", "Active listening", "Non-verbal communication", "Persuasion frameworks"]
+  },
+  {
+    "id": "resilience",
+    "name": "Stress & Resilience Coach",
+    "desc": "Reframing stress, recovery habits",
+    "principles": ["Mind Coaching"],
+    "focus": "Building mental resilience, stress management, emotional regulation",
+    "techniques": ["Cognitive reframing", "Mindfulness meditation", "Stress inoculation", "Recovery protocols"]
+  },
+  {
+    "id": "clarity",
+    "name": "Clarity & Decision Coach",
+    "desc": "Choice architecture, values alignment",
+    "principles": ["Leadership", "Excellence"],
+    "focus": "Improving decision-making, aligning choices with values, strategic thinking",
+    "techniques": ["Decision matrices", "Values assessment", "Strategic planning", "Priority frameworks"]
+  },
+  {
+    "id": "focus",
+    "name": "Focus & Study Coach",
+    "desc": "Attention training, study systems",
+    "principles": ["Mind Coaching"],
+    "focus": "Enhancing concentration, developing effective study habits, managing distractions",
+    "techniques": ["Pomodoro technique", "Deep work strategies", "Memory palace", "Active recall"]
+  },
+  {
+    "id": "attitude",
+    "name": "Attitude & Excellence Coach",
+    "desc": "Positive mindset, standards of excellence",
+    "principles": ["Attitude", "Excellence"],
+    "focus": "Cultivating positive attitude, raising personal standards, achieving excellence",
+    "techniques": ["Gratitude practice", "Growth mindset training", "Excellence habits", "Personal standards audit"]
+  }
+]

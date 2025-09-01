@@ -1,0 +1,210 @@
+{
+  "leaders": {
+    "modules": [
+      {
+        "id": "authentic_leadership",
+        "title": "Discovering Your Authentic Leadership Style",
+        "week": 1,
+        "principle": "Leadership",
+        "lessons": [
+          "Understanding your leadership values",
+          "Identifying your natural leadership strengths",
+          "Developing your leadership voice",
+          "Building authentic relationships with teams"
+        ]
+      },
+      {
+        "id": "decision_mastery",
+        "title": "Decision Making Under Pressure",
+        "week": 2,
+        "principle": "Leadership",
+        "lessons": [
+          "The neuroscience of decision fatigue",
+          "Framework for high-stakes decisions",
+          "Building decision confidence",
+          "Learning from decision outcomes"
+        ]
+      },
+      {
+        "id": "influence_communication",
+        "title": "Influential Communication",
+        "week": 3,
+        "principle": "Communication",
+        "lessons": [
+          "Executive presence fundamentals",
+          "Storytelling for leaders",
+          "Difficult conversations mastery",
+          "Inspiring through communication"
+        ]
+      },
+      {
+        "id": "stress_leadership",
+        "title": "Leading Through Stress",
+        "week": 4,
+        "principle": "Mind Coaching",
+        "lessons": [
+          "Managing your stress response",
+          "Creating calm in crisis",
+          "Modeling resilience for teams",
+          "Work-life integration strategies"
+        ]
+      }
+    ]
+  },
+  "career": {
+    "modules": [
+      {
+        "id": "career_acceleration",
+        "title": "Career Growth Mindset",
+        "week": 1,
+        "principle": "Excellence",
+        "lessons": [
+          "Identifying growth opportunities",
+          "Building a personal brand",
+          "Networking with purpose",
+          "Setting career milestones"
+        ]
+      },
+      {
+        "id": "confidence_building",
+        "title": "Professional Confidence",
+        "week": 2,
+        "principle": "Communication",
+        "lessons": [
+          "Overcoming imposter syndrome",
+          "Public speaking fundamentals",
+          "Assertive communication",
+          "Managing workplace anxiety"
+        ]
+      },
+      {
+        "id": "skill_mastery",
+        "title": "Continuous Learning",
+        "week": 3,
+        "principle": "Excellence",
+        "lessons": [
+          "Learning how to learn",
+          "Skill gap analysis",
+          "Building expertise rapidly",
+          "Teaching others what you know"
+        ]
+      },
+      {
+        "id": "workplace_excellence",
+        "title": "Achieving Workplace Excellence",
+        "week": 4,
+        "principle": "Attitude",
+        "lessons": [
+          "Setting high personal standards",
+          "Managing up effectively",
+          "Collaborative excellence",
+          "Maintaining work-life harmony"
+        ]
+      }
+    ]
+  },
+  "business": {
+    "modules": [
+      {
+        "id": "entrepreneur_resilience",
+        "title": "Building Entrepreneur Resilience",
+        "week": 1,
+        "principle": "Mind Coaching",
+        "lessons": [
+          "Managing uncertainty",
+          "Bouncing back from failures",
+          "Stress management for entrepreneurs",
+          "Building mental toughness"
+        ]
+      },
+      {
+        "id": "decision_frameworks",
+        "title": "Strategic Decision Making",
+        "week": 2,
+        "principle": "Leadership",
+        "lessons": [
+          "Business decision frameworks",
+          "Managing decision complexity",
+          "Speed vs. accuracy in decisions",
+          "Learning from decision outcomes"
+        ]
+      },
+      {
+        "id": "team_communication",
+        "title": "Leading High-Performance Teams",
+        "week": 3,
+        "principle": "Communication",
+        "lessons": [
+          "Communicating vision effectively",
+          "Building team culture",
+          "Managing difficult team dynamics",
+          "Inspiring peak performance"
+        ]
+      },
+      {
+        "id": "sustainable_growth",
+        "title": "Sustainable Business Growth",
+        "week": 4,
+        "principle": "Excellence",
+        "lessons": [
+          "Balancing growth and wellbeing",
+          "Creating systems that scale",
+          "Purpose-driven business building",
+          "Long-term thinking strategies"
+        ]
+      }
+    ]
+  },
+  "students": {
+    "modules": [
+      {
+        "id": "focus_mastery",
+        "title": "Focus and Attention Mastery",
+        "week": 1,
+        "principle": "Mind Coaching",
+        "lessons": [
+          "Understanding your attention patterns",
+          "Building deep focus skills",
+          "Managing digital distractions",
+          "Creating optimal study environments"
+        ]
+      },
+      {
+        "id": "stress_academics",
+        "title": "Managing Academic Stress",
+        "week": 2,
+        "principle": "Mind Coaching",
+        "lessons": [
+          "Understanding test anxiety",
+          "Stress management techniques",
+          "Building academic resilience",
+          "Work-rest balance for students"
+        ]
+      },
+      {
+        "id": "communication_skills",
+        "title": "Communication and Confidence",
+        "week": 3,
+        "principle": "Communication",
+        "lessons": [
+          "Presentation skills for students",
+          "Participating confidently in discussions",
+          "Asking effective questions",
+          "Building professional relationships"
+        ]
+      },
+      {
+        "id": "career_clarity",
+        "title": "Finding Career Clarity",
+        "week": 4,
+        "principle": "Leadership",
+        "lessons": [
+          "Discovering your strengths",
+          "Exploring career options",
+          "Setting meaningful goals",
+          "Building a career action plan"
+        ]
+      }
+    ]
+  }
+}

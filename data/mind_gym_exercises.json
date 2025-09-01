@@ -1,0 +1,157 @@
+[
+  {
+    "id": "gratitude_3x3",
+    "title": "Gratitude 3×3",
+    "duration": 5,
+    "description": "Build positive psychology through structured gratitude practice",
+    "steps": [
+      "Write down 3 things you're grateful for today",
+      "For each item, write 3 reasons why you're grateful",
+      "Close your eyes and feel the gratitude for 30 seconds"
+    ],
+    "tags": ["attitude", "positivity"],
+    "principle": "IF-Principle: Attitude Enhancement",
+    "benefits": ["Increased happiness", "Better perspective", "Reduced stress"]
+  },
+  {
+    "id": "cognitive_reframe",
+    "title": "ABC Cognitive Reframe",
+    "duration": 5,
+    "description": "Transform negative thoughts using the ABC model",
+    "steps": [
+      "Identify the Adversity (challenging situation)",
+      "Notice your Beliefs (automatic thoughts)",
+      "Challenge with new Consequences (reframed perspective)",
+      "Write one positive action you can take"
+    ],
+    "tags": ["resilience", "mindset"],
+    "principle": "IF-Principle: Mind Coaching",
+    "benefits": ["Better emotional regulation", "Reduced anxiety", "Improved problem-solving"]
+  },
+  {
+    "id": "box_breathing",
+    "title": "Box Breathing Timer",
+    "duration": 5,
+    "description": "Navy SEAL breathing technique for instant calm",
+    "steps": [
+      "Inhale for 4 counts",
+      "Hold for 4 counts",
+      "Exhale for 4 counts",
+      "Hold empty for 4 counts",
+      "Repeat 5-7 cycles"
+    ],
+    "tags": ["stress", "focus"],
+    "principle": "IF-Principle: Mind Coaching",
+    "benefits": ["Reduced stress", "Better focus", "Lower blood pressure"]
+  },
+  {
+    "id": "focus_sprint",
+    "title": "Focus Sprint",
+    "duration": 5,
+    "description": "Mini Pomodoro for deep concentration",
+    "steps": [
+      "Choose ONE specific task",
+      "Remove all distractions",
+      "Set timer for 5 minutes",
+      "Work with 100% focus",
+      "Note what you accomplished"
+    ],
+    "tags": ["focus", "productivity"],
+    "principle": "IF-Principle: Excellence",
+    "benefits": ["Improved concentration", "Task completion", "Momentum building"]
+  },
+  {
+    "id": "communication_drill",
+    "title": "60-Second Articulation",
+    "duration": 5,
+    "description": "Practice clear, concise communication",
+    "steps": [
+      "Pick a topic you know well",
+      "Prepare 3 key points (30 seconds)",
+      "Record yourself explaining it (60 seconds)",
+      "Listen and identify one improvement",
+      "Try again with the improvement"
+    ],
+    "tags": ["communication", "confidence"],
+    "principle": "IF-Principle: Communication",
+    "benefits": ["Clearer speaking", "Better structure", "Increased confidence"]
+  },
+  {
+    "id": "values_check",
+    "title": "Values Alignment Check",
+    "duration": 5,
+    "description": "Ensure your actions match your values",
+    "steps": [
+      "List your top 3 values",
+      "Rate today's alignment (1-10) for each",
+      "Identify one misalignment",
+      "Write one specific action to improve alignment tomorrow"
+    ],
+    "tags": ["leadership", "clarity"],
+    "principle": "IF-Principle: Leadership",
+    "benefits": ["Better decisions", "Reduced internal conflict", "Authentic living"]
+  },
+  {
+    "id": "energy_audit",
+    "title": "Energy Audit",
+    "duration": 5,
+    "description": "Identify and optimize your energy patterns",
+    "steps": [
+      "Rate your current energy (1-10)",
+      "List 3 things that drained energy today",
+      "List 3 things that gave energy today",
+      "Choose one energy drainer to minimize tomorrow",
+      "Choose one energizer to increase tomorrow"
+    ],
+    "tags": ["resilience", "self-awareness"],
+    "principle": "IF-Principle: Mind Coaching",
+    "benefits": ["Better energy management", "Increased vitality", "Sustainable performance"]
+  },
+  {
+    "id": "micro_win",
+    "title": "Micro Win Celebration",
+    "duration": 5,
+    "description": "Build momentum through small victories",
+    "steps": [
+      "Identify one small win from today",
+      "Write why it matters to your bigger goals",
+      "Share it with someone or journal it",
+      "Plan one micro win for tomorrow"
+    ],
+    "tags": ["attitude", "motivation"],
+    "principle": "IF-Principle: Attitude Enhancement",
+    "benefits": ["Increased motivation", "Progress awareness", "Positive momentum"]
+  },
+  {
+    "id": "presence_practice",
+    "title": "Executive Presence Builder",
+    "duration": 5,
+    "description": "Develop leadership presence in minutes",
+    "steps": [
+      "Stand in power pose for 60 seconds",
+      "Practice your confident walk for 60 seconds",
+      "Record a 30-second leadership statement",
+      "Review and note one strength",
+      "Set presence intention for next meeting"
+    ],
+    "tags": ["leadership", "confidence"],
+    "principle": "IF-Principle: Leadership",
+    "benefits": ["Increased confidence", "Better body language", "Leadership presence"]
+  },
+  {
+    "id": "stress_reset",
+    "title": "Stress Circuit Breaker",
+    "duration": 5,
+    "description": "Interrupt stress response quickly",
+    "steps": [
+      "Name the stressor out loud",
+      "Do 10 jumping jacks or shake your body",
+      "Take 5 slow, deep breaths",
+      "Write one thing you CAN control",
+      "Take one small action on it"
+    ],
+    "tags": ["stress", "resilience"],
+    "principle": "IF-Principle: Mind Coaching",
+    "benefits": ["Stress relief", "Better coping", "Action orientation"]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "leaders",
+    "name": "Corporate Leaders",
+    "emoji": "👔",
+    "description": "Senior executives and managers seeking authentic leadership and work-life balance",
+    "ageRange": "40+",
+    "primaryChallenges": [
+      "Decision fatigue",
+      "Team inspiration",
+      "Work-life balance",
+      "Authentic leadership"
+    ],
+    "goals": [
+      "Develop authentic leadership style",
+      "Improve team communication",
+      "Manage stress effectively",
+      "Find purpose beyond profit"
+    ],
+    "weights": {
+      "leadership_clarity": 0.35,
+      "attitude_positivity": 0.2,
+      "comm_confidence": 0.2,
+      "resilience": 0.15,
+      "purpose_alignment": 0.1
+    },
+    "journeyName": "Leadership Reset",
+    "principles": ["Leadership", "Attitude"]
+  },
+  {
+    "id": "career",
+    "name": "Career Professionals",
+    "emoji": "💼",
+    "description": "Ambitious professionals focused on career growth and skill development",
+    "ageRange": "25-40",
+    "primaryChallenges": [
+      "Career advancement",
+      "Skill gaps",
+      "Workplace communication",
+      "Imposter syndrome"
+    ],
+    "goals": [
+      "Accelerate career growth",
+      "Build confidence",
+      "Master communication skills",
+      "Achieve work excellence"
+    ],
+    "weights": {
+      "comm_confidence": 0.25,
+      "focus_control": 0.25,
+      "resilience": 0.2,
+      "attitude_positivity": 0.15,
+      "purpose_alignment": 0.15
+    },
+    "journeyName": "Growth Accelerator",
+    "principles": ["Communication", "Excellence"]
+  },
+  {
+    "id": "business",
+    "name": "Business Owners",
+    "emoji": "🚀",
+    "description": "Entrepreneurs and business owners navigating growth and uncertainty",
+    "ageRange": "30-50",
+    "primaryChallenges": [
+      "Business uncertainty",
+      "Decision overload",
+      "Stress management",
+      "Team building"
+    ],
+    "goals": [
+      "Build resilience",
+      "Improve decision-making",
+      "Manage entrepreneurial stress",
+      "Scale with purpose"
+    ],
+    "weights": {
+      "resilience": 0.25,
+      "leadership_clarity": 0.25,
+      "attitude_positivity": 0.2,
+      "comm_confidence": 0.15,
+      "purpose_alignment": 0.15
+    },
+    "journeyName": "Entrepreneur Resilience",
+    "principles": ["Mind Coaching", "Leadership"]
+  },
+  {
+    "id": "students",
+    "name": "Students",
+    "emoji": "📚",
+    "description": "Students seeking focus, clarity, and academic excellence",
+    "ageRange": "18-25",
+    "primaryChallenges": [
+      "Study focus",
+      "Test anxiety",
+      "Career clarity",
+      "Time management"
+    ],
+    "goals": [
+      "Improve study focus",
+      "Manage academic stress",
+      "Build confidence",
+      "Find career clarity"
+    ],
+    "weights": {
+      "focus_control": 0.35,
+      "resilience": 0.2,
+      "comm_confidence": 0.15,
+      "attitude_positivity": 0.15,
+      "purpose_alignment": 0.15
+    },
+    "journeyName": "Focus & Clarity",
+    "principles": ["Mind Coaching", "Communication"]
+  }
+]
